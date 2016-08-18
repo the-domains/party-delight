@@ -6,9 +6,9 @@ color:
   saturation: 0.9035285871941596
   rhythmicContrast: 0.5684096119366586
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: party delight
